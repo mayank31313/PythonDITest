@@ -1,0 +1,5 @@
+rcn.profile: local
+mqtt.topic: test
+---
+rcn.profile: prod
+mqtt.topic: prod-test

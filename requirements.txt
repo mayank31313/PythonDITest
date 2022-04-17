@@ -1,0 +1,5 @@
+Flask==2.1.1
+git+https://github.com/mayank31313/python-dependency-injection.git
+paho-mqtt==1.6.1
+pyyaml==6.0
+JProperties==2.1.1
